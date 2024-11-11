@@ -5,9 +5,7 @@
 
 <h4>Key Features:</h4>
 <h5>Total sales calculation</h5>
-<br>
 <h5>Average order value (AOV) analysis</h5>
-<br>
 <h5>Best-selling pizza types</h5>
 <br>
 <h5>Customer demographics analysis (age group, location)</h5>
