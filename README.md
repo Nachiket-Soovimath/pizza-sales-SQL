@@ -1,5 +1,5 @@
 # pizza-sales-SQL
-Project Overview
+Project Overview:
 This project provides an analysis of pizza sales using SQL queries. The goal is to derive insights from a sales database, helping to optimize business operations, understand customer behavior, and improve sales performance. The analysis includes total sales, average order value, popular pizza types, customer demographics, and geographic trends. SQL queries are used to extract relevant data from various tables in the database.
 
 Key Features:
